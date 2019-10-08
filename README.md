@@ -1,2 +1,3 @@
-# Initial page
+# 写在前面
 
+django笔记, 顺序有点乱, 请当做字典看
